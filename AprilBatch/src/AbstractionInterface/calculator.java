@@ -12,6 +12,7 @@ public abstract class calculator extends animal implements  ROI  {
 	
 	void mul()
 	{
+		System.out.println("kahihi change");
 		System.out.println("multiplication");
 	}
 }
